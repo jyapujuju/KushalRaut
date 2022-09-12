@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kushal Raut</h1>
 <h3 align="center">I am a Computer Engineer from Nepal</h3>
 
-### Wanna visit my website:question::point_right: [Click Here](https://kushal-raut-portfolio.netlify.app/):sparkles:
+### Wanna visit my website:question::point_right: [Click Here](https://rautkushal.com.np/):sparkles:
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=KushalRaut&label=Profile%20views&color=0e75b6&style=flat" alt="KushalRaut" /> </p> -->
